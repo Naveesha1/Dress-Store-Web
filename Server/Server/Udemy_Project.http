@@ -1,0 +1,6 @@
+@Udemy_Project_HostAddress = http://localhost:5092
+
+GET {{Udemy_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
